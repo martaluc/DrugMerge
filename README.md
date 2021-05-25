@@ -26,5 +26,7 @@ Option 'global' is used only for merging runs on the covid19 three data sets. Us
   
 ### Notes
 • the drug enrichment analyses have been performed on June 2020 (for DrugMatrix and GEO) and on January 2021 (for L1000 and CMAP). If you run the R scripts, you could obtain slightly different results because of updating of the drug perturbation databases.
+
 • if you have the python3 version installed, replace 'python' with 'python2' in the .sh scripts.
+      
 • the 'metadata_file.py' and 'mapping_modulation_data.py' files located in '3-Drugs/code' include all the path and the files' names of the input files for python scripts. If you decide to rename the input files, you should change the corresponding names in these two files.
