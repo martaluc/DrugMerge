@@ -7,8 +7,11 @@ The python code performs the merging of the drug lists, calculates the RHR (Reci
 
 This repository includes:
 • 1-input_files directory which contains the differentially expressed genes (in 'DEGs' folder) and the active subnetworks for each disease and for each active subnetwork identification algorithms such as Core&Peel, ModuleDiscoverer (MD), Degas, ClustEx, and KeyPathwayMiner (KPM).
+
 • 2-script contains one R script for each disease.
+
 • 3-Drugs contains the output files of the R scripts which are also the inputs of the python part. The python scripts are located in the 'code' folder.
+
 • 4-MultipleModules_output includes the outputs of the drug enrichment analysis for each single module of Core&Peel and MD. This folder is created by the R scripts to calculates the files included in '3-Drugs/Drug-modulation-data'.
 
 ## Instructions
@@ -17,7 +20,9 @@ This repository includes:
 3) Move to '3-Drugs/code' folder.
 4) Build an empty directory 'modulation-dumps'.
 5) Generate the output log directory structure: 
+
       python file_summary_2_cl.py  --mode=createdirectory
+      
 The directories are generated for all diseases and all configurations.
 7) Run linux (.sh) or windows (.bat) shell scripts. For a given data set all scripts with 'score' in the script name should be run first, later the scripts with 'pval' in the script name. Note: dates in log filenames used the scripts can be changed, all other parts of the log filenames should be left as is.
 8) Generate summaries in csv format (';' as separator): 
