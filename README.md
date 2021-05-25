@@ -30,7 +30,7 @@ The directories are generated for all diseases and all configurations.
 
 7) Generate summaries in csv format (';' as separator): 
       
-   python file_summary_2_cl.py --prefix=<test|merge|global> -dir=<directoryname>  -out=<outputfilename>
+python file_summary_2_cl.py --prefix=<test|merge|global> -dir=<directoryname>  -out=<outputfilename>
       
 Option 'global' is used only for merging runs on the covid19 three data sets. Use the directories for pmbc data. Summary Files are placed in the same directory holding the log files. Lists of drugs can be extracted from the log files of interest.
   
