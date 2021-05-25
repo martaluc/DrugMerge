@@ -24,16 +24,16 @@ This repository includes:
 
       python file_summary_2_cl.py  --mode=createdirectory
       
-The directories are generated for all diseases and all configurations.
+   The directories are generated for all diseases and all configurations.
 
 6) Run linux (.sh) or windows (.bat) shell scripts. For a given data set all scripts with 'score' in the script name should be run first, later the scripts with 'pval' in the script name. Note: dates in log filenames used the scripts can be changed, all other parts of the log filenames should be left as is.
 
 7) Generate summaries in csv format (';' as separator): 
       
-python file_summary_2_cl.py --prefix=<test|merge|global> -dir=directoryname -out=outputfilename
+   python file_summary_2_cl.py --prefix=<test|merge|global> -dir=directoryname -out=outputfilename
 
       
-Option 'global' is used only for merging runs on the covid19 three data sets. Use the directories for pmbc data. Summary Files are placed in the same directory holding the log files. Lists of drugs can be extracted from the log files of interest.
+   Option 'global' is used only for merging runs on the covid19 three data sets. Use the directories for pmbc data. Summary Files are placed in the same directory      holding the log files. Lists of drugs can be extracted from the log files of interest.
   
 ### Notes
 • the drug enrichment analyses have been performed on June 2020 (for DrugMatrix and GEO) and on January 2021 (for L1000 and CMAP). If you run the R scripts, you could obtain slightly different results because of updating of the drug perturbation databases.
