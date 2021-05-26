@@ -1,0 +1,2937 @@
+Python 2.7.17 (v2.7.17:c2f86d86e6, Oct 19 2019, 21:01:17) [MSC v.1500 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Marco\Desktop\Tesi-Marta\Drugs\code-2021-01-07\random-drug-scoring-model.py 
+Checking name uniqueness 132 132
+Checking name uniqueness 479 479
+Checking name uniqueness 217 217
+Checking name uniqueness 310 310
+Checking name uniqueness 360 359
+Checking name uniqueness 324 324
+Opening  ../Mesh_D.csv
+"","CATEGORY","MESHID","MESHTERM","SYNONYM"
+
+length  33519
+Size first list :  129
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  20
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  11
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  19
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  14
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  9
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  7
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  7
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  19
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  9
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  12
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  11
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  27
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  12
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  7
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  17
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  14
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  12
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  4
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  14
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  10
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  3
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  16
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  2
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  8
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  11
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  7
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  15
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  6
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  9
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  7
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  11
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+Size first list :  5
+Size second list :  479
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_asth_dump.txt : exists
+./drug-names-dump\GEO_asth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_asth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_asth_dump.txt
+@  GEO asth 132 479 2 1 0 0 3
+Size first list :  122
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  20
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  11
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  14
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  9
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  7
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  19
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  9
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  12
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  9
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  11
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  27
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  12
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  7
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  17
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  14
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  12
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  4
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  14
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  10
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  3
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  16
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  2
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  8
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  11
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  7
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  15
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  6
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  9
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  7
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  11
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+Size first list :  5
+Size second list :  217
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_crc_dump.txt : exists
+./drug-names-dump\GEO_crc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_crc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_crc_dump.txt
+@  GEO crc 132 217 10 0 0 0 10
+Size first list :  96
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 prednisolone ('prednisolone', 'methylprednisolone_sodium_succinate') ('prednisolone', 'methylprednisolone_sodium_succinate')
+Certified pair  ('prednisolone', 'methylprednisolone_sodium_succinate')
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 estradiol ('estradiol', 'estradiol_patch') ('estradiol', 'estradiol_patch')
+Certified pair  ('estradiol', 'estradiol_patch')
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 tretinoin ('tretinoin', 'isotretinoin') ('tretinoin', 'isotretinoin')
+Certified pair  ('tretinoin', 'isotretinoin')
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 0.833333333333 oglitazone ('troglitazone', 'pioglitazone') ('troglitazone', 'pioglitazone')
+Certified pair  ('troglitazone', 'pioglitazone')
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  8
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  20
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  11
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  5
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  19
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  6
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  6
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  9
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  8
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  7
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  12
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  5
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  3
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  11
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  10
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  27
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  10
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  6
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 0.857142857143 retino ('retinol', '13_cis_retinoic_acid') ('retinol', '13_cis_retinoic_acid')
+Certified pair  ('retinol', '13_cis_retinoic_acid')
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  7
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  8
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  5
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  10
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  6
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  17
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  14
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  10
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  12
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  4
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  3
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  16
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  2
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  8
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  11
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  7
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  15
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  6
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  9
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  7
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  11
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+Size first list :  5
+Size second list :  359
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_covid19_dump.txt : exists
+./drug-names-dump\GEO_covid19_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_covid19_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_covid19_dump.txt
+@  GEO covid19 132 359 36 0 4 1 41
+Size first list :  121
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 estradiol ('estradiol', 'polyestradiol_phosphate') ('estradiol', 'polyestradiol_phosphate')
+Certified pair  ('estradiol', 'polyestradiol_phosphate')
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  20
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  11
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  5
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  19
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  14
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  6
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  9
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  7
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  6
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  7
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  9
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  12
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  5
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  9
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  11
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  5
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 0.875 androge ('androgel', 'androgen') ('androgel', 'androgen')
+Certified pair  ('androgel', 'androgen')
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  27
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  6
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  12
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  7
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  5
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  6
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  17
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  12
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  4
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  14
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  10
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  3
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  16
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  2
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  8
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  11
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  15
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  6
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  9
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  7
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  11
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+Size first list :  5
+Size second list :  310
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_prc_dump.txt : exists
+./drug-names-dump\GEO_prc_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_prc_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_prc_dump.txt
+@  GEO prc 132 310 11 0 1 1 13
+Size first list :  124
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 prednisolone ('prednisolone', 'methylprednisolone_acetate') ('prednisolone', 'methylprednisolone_acetate')
+Certified pair  ('prednisolone', 'methylprednisolone_acetate')
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 methylprednisolone ('methylprednisolone', 'methylprednisolone_acetate') ('methylprednisolone', 'methylprednisolone_acetate')
+Certified pair  ('methylprednisolone', 'methylprednisolone_acetate')
+(st) matching: ratio , lcs, (key,drug) (keynorm,drugnorm 1.0 methotrexate ('methotrexate', 'methotrexate_subcutaneous_auto_injection') ('methotrexate', 'methotrexate_subcutaneous_auto_injection')
+Certified pair  ('methotrexate', 'methotrexate_subcutaneous_auto_injection')
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  20
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  11
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  19
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  14
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  9
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  7
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  19
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  9
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  12
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  9
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  11
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  27
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  12
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  7
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  17
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  14
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  12
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  4
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  14
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  10
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  3
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  16
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  2
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  8
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  11
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  7
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  15
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  6
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  9
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  7
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  11
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+Size first list :  5
+Size second list :  324
+./drug-names-dump : exists
+./drug-names-dump : is a directory
+./drug-names-dump\GEO_arth_dump.txt : exists
+./drug-names-dump\GEO_arth_dump.txt : is a file
+Loading targets from file ./drug-names-dump/GEO_arth_dump.txt
+Existing  file, overwriting ./drug-names-dump/GEO_arth_dump.txt
+@  GEO arth 132 324 8 0 3 0 11
+*************************************************************
+Final results of generation of pramteres for input parameters of the random models size 5
+('GEO', 'arth') (132, 324, 8, 0, 3, 0, 11)
+('GEO', 'prc') (132, 310, 11, 0, 1, 1, 13)
+('GEO', 'crc') (132, 217, 10, 0, 0, 0, 10)
+('GEO', 'covid19') (132, 359, 36, 0, 4, 1, 41)
+('GEO', 'asth') (132, 479, 2, 1, 0, 0, 3)
+*********************************************
+{('GEO', 'arth'): (132, 324, 8, 0, 3, 0, 11), ('GEO', 'prc'): (132, 310, 11, 0, 1, 1, 13), ('GEO', 'crc'): (132, 217, 10, 0, 0, 0, 10), ('GEO', 'covid19'): (132, 359, 36, 0, 4, 1, 41), ('GEO', 'asth'): (132, 479, 2, 1, 0, 0, 3)}
+>>> 
