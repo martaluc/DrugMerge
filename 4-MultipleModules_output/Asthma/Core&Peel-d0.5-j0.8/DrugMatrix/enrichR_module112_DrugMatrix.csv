@@ -1,0 +1,4 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Tenidap-41 uM in DMSO-Rat-Primary rat hepatocytes-1d-up","2/247",0.00776290940508229,0.186943153471709,0,0,17.9083900226757,87.0060879119068,"POFUT2;SMOX"
+"Sotalol-2000 mg/kg in Water-Rat-Heart-5d-dn","2/287",0.0103616572100401,0.186943153471709,0,0,15.3637426900585,70.2068206598688,"POFUT2;SYNJ2"
+"Busulfan-9 mg/kg in Corn Oil-Rat-Spleen-1d-up","2/338",0.0141606781972689,0.186943153471709,0,0,12.9980158730159,55.3362748588698,"POFUT2;SMOX"
