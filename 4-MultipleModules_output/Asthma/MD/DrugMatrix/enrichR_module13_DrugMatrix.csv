@@ -1,0 +1,4 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Clotrimazole-60 uM in DMSO-Rat-Primary rat hepatocytes-0.67d-up","1/219",0.0430887810587137,0.0757147154083239,0,0,30.2415902140673,95.0944571247856,"MECP2"
+"Amantadine-1500 uM in DMSO-Rat-Primary rat hepatocytes-0.67d-dn","1/227",0.0446359642424069,0.0757147154083239,0,0,29.1592920353982,90.6625190258698,"MECP2"
+"Lansoprazole-240 uM in DMSO-Rat-Primary rat hepatocytes-1d-up","1/232",0.0456020005475512,0.0757147154083239,0,0,28.5209235209235,88.0670129405206,"MECP2"

@@ -1,0 +1,4 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Clobetasol Propionate-17 mg/kg in Corn Oil-Rat-Bone marrow-3d-up","2/306",0.0188062837446069,0.222637185669016,0,0,10.7905701754386,42.8770235976792,"NFE2;PTAFR"
+"Cyclosporin A-350 mg/kg in Corn Oil-Rat-Bone marrow-5d-up","2/315",0.0198593423762201,0.222637185669016,0,0,10.475505857295,41.0543531831103,"PTAFR;LILRB3"
+"Oxaliplatin-8 mg/kg in Saline-Rat-Bone marrow-3d-up","2/333",0.022039082915071,0.222637185669016,0,0,9.89677744209466,37.7555914070067,"PTAFR;LILRB3"
