@@ -7,7 +7,7 @@ The python code performs the merging of the drug lists, calculates the RHR (Reci
 
 This repository includes:
 
-• 1-input_files directory which contains the differentially expressed genes (in 'DEGs' folder) and the active subnetworks for each disease and for each active subnetwork identification algorithms such as Core&Peel, ModuleDiscoverer (MD), Degas, ClustEx, and KeyPathwayMiner (KPM).
+• 1-input_files directory which contains the differentially expressed genes (in 'DEGs' folder) and the active subnetworks for each disease and for each active subnetwork identification algorithm such as Core&Peel, ModuleDiscoverer (MD), Degas, ClustEx, and KeyPathwayMiner (KPM).
 
 • 2-script contains one R script for each disease.
 
@@ -17,7 +17,7 @@ This repository includes:
 
 ## Instructions
 1) Move to the '2-script' folder and set it as working directory.
-2) Run the R scripts (one for each disease). The output files are stored in the '3-Drugs' directory, in folders with the following pattern: disease_drugDatabaseName ex: Asthma_CMAP, Asthma_L1000, Asthma_drugmatrix, and Asthma_drugperturbationGEO. The Drug-modulation-data folder contains the drug lists for every single module of Core&Peel and MD. The folders are called as follows: disease-cp or disease-MD.
+2) Run the R scripts (one for each disease). The output files are stored in the '3-Drugs' directory, in folders with the following pattern: disease_drugDatabaseName ex: Asthma_CMAP, Asthma_L1000, Asthma_drugmatrix, and Asthma_drugperturbationGEO. The 'Drug-modulation-data' folder contains the drug lists for every single module of Core&Peel and MD. The folders are called as follows: disease-cp or disease-MD.
 3) Move to '3-Drugs/code' folder.
 4) Build an empty directory 'modulation-dumps'.
 5) Generate the output log directory structure: 
