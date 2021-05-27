@@ -1,0 +1,3 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Ifosfamide-17 mg/kg in Saline-Rat-Spleen-3d-up","3/287",0.0126006913972701,0.466773689802497,0,0,6.70672421626533,29.3352358241069,"GZMM;CD5;F5"
+"Hydroxyurea-59 mg/kg in Saline-Rat-Spleen-3d-up","3/293",0.0133183528277779,0.466773689802497,0,0,6.56596218020022,28.355844921749,"CD8B;CD5;F5"

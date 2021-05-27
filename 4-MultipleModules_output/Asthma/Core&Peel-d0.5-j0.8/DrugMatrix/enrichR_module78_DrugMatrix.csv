@@ -1,0 +1,3 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Methyl Methanesulfonate-113 mg/kg in Water-Rat-Bone marrow-1d-up","3/302",0.00931673315820025,0.408913122772462,0,0,7.59145870851556,35.4972299633013,"ICAM2;NKG7;LCP2"
+"Etoposide-100 mg/kg in Corn Oil-Rat-Bone marrow-3d-up","3/316",0.010534569796252,0.408913122772462,0,0,7.2467436716638,32.9950983786661,"ICAM2;NKG7;LCP2"

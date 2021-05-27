@@ -1,0 +1,3 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"Lead(IV) Acetate-200 mg/kg in Saline-Rat-Spleen-3d-up","3/290",0.0214370091724017,0.539032101472856,0,0,5.41133321107647,20.7937862403358,"NCOA1;PLCG2;PRKD2"
+"Tegafur-175 mg/kg in Water-Rat-Bone marrow-5d-up","3/297",0.0228080568394199,0.539032101472856,0,0,5.28061224489796,19.964101456773,"NCOA1;EHD1;PRKD2"
