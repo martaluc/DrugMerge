@@ -1,0 +1,92 @@
+"modules","drugs","module_size","DEG_up","DEG_down","drug_module_genes","DE_drug","p_value","adjusted_pvalue"
+1,"prednisolone homo sapiens gpl570 gse32962 chdir down",9,3,0,1,0,NA,NA
+1,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",9,3,0,1,0,NA,NA
+1,"ethanol homo sapiens gpl96 gds2767 chdir down",9,3,0,2,0,0.00812296610689943,1
+1,"decitabine homo sapiens gpl96 gse19610 chdir down",9,3,0,1,0,0.0492950722094505,1
+2,"prednisolone homo sapiens gpl570 gse32962 chdir down",16,2,0,3,1,0.0278893308558464,1
+2,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",16,2,0,1,0,NA,NA
+2,"ethanol homo sapiens gpl96 gds2767 chdir down",16,2,0,3,1,0.00181098899250677,0.421356772256575
+2,"decitabine homo sapiens gpl96 gse19610 chdir down",16,2,0,1,0,NA,NA
+2,"vorinostat homo sapiens gpl6884 gse46703 chdir down",16,2,0,1,0,0.0284247822669754,1
+2,"celecoxib homo sapiens gpl8300 gse11237 chdir down",16,2,0,1,0,NA,NA
+3,"prednisolone homo sapiens gpl570 gse32962 chdir down",7,3,0,1,0,NA,NA
+3,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",7,3,0,2,0,0.00157075310142876,1
+3,"ethanol homo sapiens gpl96 gds2767 chdir down",7,3,0,2,0,0.00483715327742797,1
+3,"valproic acid mus musculus gpl6885 gse41020 chdir down",7,3,0,1,0,NA,NA
+3,"doxorubicin mus musculus gpl8321 gse17115 chdir down",7,3,0,1,0,0.0456380345107205,1
+4,"prednisolone homo sapiens gpl570 gse32962 chdir down",3,2,0,1,1,NA,NA
+5,"prednisolone homo sapiens gpl570 gse32962 chdir down",11,2,0,6,0,2.15150784705236e-06,0.000750876238621275
+5,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",11,2,0,4,0,1.82245700987401e-06,0.00127207499289206
+5,"decitabine homo sapiens gpl96 gse19610 chdir down",11,2,0,1,0,NA,NA
+5,"valproic acid mus musculus gpl6885 gse41020 chdir down",11,2,0,4,1,3.47491420824246e-06,0.000808496705784412
+5,"doxorubicin mus musculus gpl8321 gse17115 chdir down",11,2,0,2,0,0.00232097422392608,0.147276364390946
+6,"prednisolone homo sapiens gpl570 gse32962 chdir down",4,2,0,3,1,0.00029114663426605,0.203220350717703
+6,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",4,2,0,1,0,0.0347404520666623,1
+6,"decitabine homo sapiens gpl96 gse19610 chdir down",4,2,0,1,0,0.0222140341244091,1
+6,"valproic acid mus musculus gpl6885 gse41020 chdir down",4,2,0,1,1,0.0407644838876256,1
+8,"prednisolone homo sapiens gpl570 gse32962 chdir down",18,2,0,2,1,NA,NA
+8,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",18,2,0,2,0,0.010739572284803,1
+8,"ethanol homo sapiens gpl96 gds2767 chdir down",18,2,0,2,1,0.0314831547226725,1
+8,"vorinostat homo sapiens gpl6884 gse46703 chdir down",18,2,0,1,0,0.0319221763964905,1
+9,"prednisolone homo sapiens gpl570 gse32962 chdir down",6,2,0,2,1,0.0238781485899376,0.268821737351233
+11,"prednisolone homo sapiens gpl570 gse32962 chdir down",7,2,0,1,0,NA,NA
+11,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",7,2,0,2,1,0.00157075310142876,0.548192832398638
+14,"prednisolone homo sapiens gpl570 gse32962 chdir down",7,2,0,2,0,0.0325035385206345,1
+14,"decitabine homo sapiens gpl96 gse19610 chdir down",7,2,0,1,0,0.0385530282298092,1
+15,"prednisolone homo sapiens gpl570 gse32962 chdir down",8,2,0,5,2,6.69849548657757e-06,0.00467554984963114
+15,"ethanol homo sapiens gpl96 gds2767 chdir down",8,2,0,2,1,0.00638331859625273,1
+15,"valproic acid mus musculus gpl6885 gse41020 chdir down",8,2,0,1,1,NA,NA
+15,"celecoxib homo sapiens gpl8300 gse11237 chdir down",8,2,0,1,0,0.0335041058162561,1
+16,"prednisolone homo sapiens gpl570 gse32962 chdir down",10,2,0,4,0,0.000541619719206695,0.0945126410015682
+16,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",10,2,0,4,0,1.16776269470184e-06,0.000815098360901887
+16,"decitabine homo sapiens gpl96 gse19610 chdir down",10,2,0,2,0,0.00135819117010311,0.135431062390282
+16,"valproic acid mus musculus gpl6885 gse41020 chdir down",10,2,0,2,1,0.00454202129987182,0.317033086731053
+16,"doxorubicin mus musculus gpl8321 gse17115 chdir down",10,2,0,1,0,NA,NA
+17,"prednisolone homo sapiens gpl570 gse32962 chdir down",15,2,0,10,2,4.26039014661462e-11,2.97375232233701e-08
+17,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",15,2,0,1,0,NA,NA
+17,"ethanol homo sapiens gpl96 gds2767 chdir down",15,2,0,3,1,0.00148852164970203,0.17316468524867
+17,"decitabine homo sapiens gpl96 gse19610 chdir down",15,2,0,1,0,NA,NA
+17,"valproic acid mus musculus gpl6885 gse41020 chdir down",15,2,0,2,1,0.0102437874491363,0.510725974249794
+17,"doxorubicin mus musculus gpl8321 gse17115 chdir down",15,2,0,1,0,NA,NA
+17,"vorinostat homo sapiens gpl6884 gse46703 chdir down",15,2,0,1,0,0.0266714820499686,1
+19,"prednisolone homo sapiens gpl570 gse32962 chdir down",4,2,0,1,0,NA,NA
+19,"valproic acid mus musculus gpl6885 gse41020 chdir down",4,2,0,1,1,0.0407644838876256,1
+20,"prednisolone homo sapiens gpl570 gse32962 chdir down",19,2,0,5,2,0.00094295874311891,0.1316370405394
+20,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",19,2,0,2,0,0.0119342106165053,0.416503950516034
+20,"ethanol homo sapiens gpl96 gds2767 chdir down",19,2,0,2,1,0.0348309325390345,0.935076573547926
+20,"valproic acid mus musculus gpl6885 gse41020 chdir down",19,2,0,3,1,0.000936918833447471,0.163492336436584
+20,"vorinostat homo sapiens gpl6884 gse46703 chdir down",19,2,0,2,0,0.000528384897738317,0.122937552873782
+20,"celecoxib homo sapiens gpl8300 gse11237 chdir down",19,2,0,1,0,NA,NA
+23,"prednisolone homo sapiens gpl570 gse32962 chdir down",7,2,0,1,1,NA,NA
+24,"prednisolone homo sapiens gpl570 gse32962 chdir down",8,2,0,1,0,NA,NA
+24,"doxorubicin mus musculus gpl8321 gse17115 chdir down",8,2,0,1,0,NA,NA
+26,"prednisolone homo sapiens gpl570 gse32962 chdir down",13,2,0,5,2,0.000128942251318004,0.0900016914199668
+26,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",13,2,0,1,0,NA,NA
+26,"ethanol homo sapiens gpl96 gds2767 chdir down",13,2,0,3,1,0.000957531890422741,0.167089314878768
+26,"decitabine homo sapiens gpl96 gse19610 chdir down",13,2,0,1,0,NA,NA
+26,"valproic acid mus musculus gpl6885 gse41020 chdir down",13,2,0,1,1,NA,NA
+26,"celecoxib homo sapiens gpl8300 gse11237 chdir down",13,2,0,1,0,NA,NA
+27,"ethanol homo sapiens gpl96 gds2767 chdir down",10,2,0,2,0,0.0100497222600364,1
+27,"doxorubicin mus musculus gpl8321 gse17115 chdir down",10,2,0,1,0,NA,NA
+28,"prednisolone homo sapiens gpl570 gse32962 chdir down",11,2,0,2,0,NA,NA
+28,"decitabine homo sapiens gpl96 gse19610 chdir down",11,2,0,1,0,NA,NA
+28,"valproic acid mus musculus gpl6885 gse41020 chdir down",11,2,0,1,0,NA,NA
+29,"prednisolone homo sapiens gpl570 gse32962 chdir down",6,3,0,1,0,NA,NA
+29,"valproic acid mus musculus gpl6885 gse41020 chdir down",6,3,0,1,1,NA,NA
+30,"prednisolone homo sapiens gpl570 gse32962 chdir down",9,2,0,1,0,NA,NA
+30,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",9,2,0,2,0,0.00266169805978789,0.464466311432987
+30,"ethanol homo sapiens gpl96 gds2767 chdir down",9,2,0,2,1,0.00812296610689943,0.944971723769301
+30,"valproic acid mus musculus gpl6885 gse41020 chdir down",9,2,0,2,0,0.0036584704770501,0.510722478596193
+30,"doxorubicin mus musculus gpl8321 gse17115 chdir down",9,2,0,1,0,NA,NA
+31,"prednisolone homo sapiens gpl570 gse32962 chdir down",5,2,0,1,0,NA,NA
+32,"prednisolone homo sapiens gpl570 gse32962 chdir down",20,2,0,3,1,NA,NA
+32,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",20,2,0,1,0,NA,NA
+32,"ethanol homo sapiens gpl96 gds2767 chdir down",20,2,0,3,1,0.00352052576210101,0.351046711706644
+32,"vorinostat homo sapiens gpl6884 gse46703 chdir down",20,2,0,2,0,0.000586430503116779,0.102332122793878
+32,"celecoxib homo sapiens gpl8300 gse11237 chdir down",20,2,0,1,0,NA,NA
+33,"prednisolone homo sapiens gpl570 gse32962 chdir down",14,2,0,2,0,NA,NA
+33,"tocilizumab homo sapiens gpl6244 gse25160 chdir down",14,2,0,4,1,5.41507405788288e-06,0.00188986084620113
+33,"ethanol homo sapiens gpl96 gds2767 chdir down",14,2,0,5,2,1.59592711050929e-06,0.00111395712313548
+33,"doxorubicin mus musculus gpl8321 gse17115 chdir down",14,2,0,1,0,NA,NA
+34,"valproic acid mus musculus gpl6885 gse41020 chdir down",6,2,0,1,1,NA,NA
+34,"celecoxib homo sapiens gpl8300 gse11237 chdir down",6,2,0,1,0,0.02523354305099,1
