@@ -1,0 +1,8 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"bleomycin mus musculus gpl6885 gse37635 chdir down","1/17",0.00593566199512446,1,0,0,168.067226890756,861.643145589991,"ASGR1"
+"methylprednisolone rattus norvegicus gpl85 gds253 chdir up","1/75",0.0259602034362563,1,0,0,38.0952380952381,139.092973358071,"ASGR1"
+"prednisolone homo sapiens gpl570 gse32962 chdir down","2/845",0.0325035385206345,1,0,0,6.76246830092984,23.1709641116835,"LILRA3;FCAR"
+"decitabine homo sapiens gpl96 gse19610 chdir down","1/112",0.0385530282298092,1,0,0,25.5102040816327,83.0540976723343,"LILRA3"
+"glipizide mus musculus gpl81 gds1808 chdir up","1/122",0.0419324426545519,1,0,0,23.4192037470726,74.2785822941917,"ASGR1"
+"progesterone mus musculus gpl4277 gse5783 chdir down","1/127",0.043618328465468,1,0,0,22.4971878515186,70.4674429541671,"ASGR1"
+"cisplatin dictyostelium discoideum gpl5382 gse8287 chdir down","1/141",0.0483252883534015,1,0,0,20.2634245187437,61.394129421364,"ASGR1"

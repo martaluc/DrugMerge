@@ -1,0 +1,8 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"fenofibrate homo sapiens gpl4044 gse15494 chdir down","2/151",0.00297829635762794,1,0,0,24.0818783865141,140.069929777585,"SLC22A4;SIGLEC5"
+"telmisartan rattus norvegicus gpl4135 gse29445 chdir up","3/914",0.011914985983318,1,0,0,5.96777402029043,26.4369903211958,"PGS1;SLC22A4;HK3"
+"fenofibrate homo sapiens gpl4044 gse15483 chdir up","2/329",0.0134517750753557,1,0,0,11.0527770102238,47.6224836228733,"SLC22A4;SIGLEC5"
+"fluorouracil homo sapiens gpl550 mcf-7 gds1627 chdir down","1/34",0.0185463099170107,1,0,0,53.475935828877,213.234461819458,"FPR2"
+"valproic acid mus musculus gpl6885 gse35291 chdir up","2/498",0.0293281251278835,1,0,0,7.30193501277838,25.770049809382,"BST1;FPR2"
+"decitabine homo sapiens gpl96 gse19610 chdir up","1/56",0.0303797035423348,1,0,0,32.4675324675325,113.440926629187,"HK3"
+"tamoxifen homo sapiens gpl6480 gse12665 chdir down","1/73",0.0394346948215384,1,0,0,24.906600249066,80.5257601726978,"SIGLEC5"

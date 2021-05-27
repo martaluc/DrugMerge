@@ -1,0 +1,6 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"cholecalciferol homo sapiens gpl570 gse27220 chdir up","1/31",0.00618598577158728,1,0,0,161.290322580645,820.236920132412,"TKTL1"
+"docetaxel homo sapiens gpl570 gse33455 chdir down","1/113",0.0224106918459827,1,0,0,44.2477876106195,168.062704400296,"TKTL1"
+"fluorouracil homo sapiens gpl550 gds845 chdir up","1/128",0.0253569998656497,1,0,0,39.0625,143.542986649962,"MECP2"
+"colchicine homo sapiens gpl3386 gds1753 chdir down","1/161",0.0318154340238083,1,0,0,31.055900621118,107.074650940309,"OLIG2"
+"ethanol homo sapiens gpl96 gds2767 chdir up","1/180",0.0355193363615434,1,0,0,27.7777777777778,92.7132790152171,"TKTL1"

@@ -1,0 +1,8 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"imatinib homo sapiens gpl96 gds3043 chdir up","4/5369",0.00518910855117653,1,0,0,3.72508847085118,19.5984107257826,"C15ORF39;TACC3;FHL3;USB1"
+"plicamycin homo sapiens gpl570 gse25127 chdir up","4/6488",0.0110674553025849,1,0,0,3.0826140567201,13.8833120591402,"C15ORF39;TACC3;FHL3;USB1"
+"pioglitazone rattus norvegicus gpl341 skeletal muscle gds3850 chdir up","1/65",0.0129376087422444,1,0,0,76.9230769230769,334.432061753403,"FHL3"
+"troglitazone rattus norvegicus gpl341 skeletal muscle gds3850 chdir up","1/79",0.015707669790035,1,0,0,63.2911392405063,262.886466092244,"FHL3"
+"cetuximab homo sapiens gpl570 gse21483 chdir up","3/3901",0.0253269811471678,1,0,0,3.84516790566521,14.1343950384372,"C15ORF39;TACC3;USB1"
+"cisplatin dictyostelium discoideum gpl5382 gse8287 chdir down","1/141",0.0279050759783193,1,0,0,35.4609929078014,126.913002553055,"TACC3"
+"imatinib homo sapiens gpl96 gds3045 chdir up","3/4070",0.0285506972324796,1,0,0,3.68550368550369,13.1059235444427,"C15ORF39;TACC3;FHL3"
