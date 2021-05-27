@@ -1,0 +1,5 @@
+"Term","Overlap","P.value","Adjusted.P.value","Old.P.value","Old.Adjusted.P.value","Odds.Ratio","Combined.Score","Genes"
+"prednisolone homo sapiens gpl570 gse32962 chdir down","5/845",0.000128942251318004,0.0900016914199668,0,0,9.10332271279017,81.5306865547169,"SELPLG;BIN2;OSM;AOAH;CFP"
+"sorafenib homo sapiens gpl6244 gse35907 chdir down","1/37",0.0237917406507484,1,0,0,41.5800415800416,155.443525572359,"CRLF2"
+"valproic acid mus musculus gpl6885 gse35291 chdir up","2/498",0.0402554838310517,1,0,0,6.17856039542786,19.8486811254139,"OSM;CFP"
+"hydrocortisone homo sapiens gpl201 gse21909 chdir up","3/1270",0.0452460647497357,1,0,0,3.63416111447608,11.2500529841601,"BIN2;LAIR2;ETV6"
