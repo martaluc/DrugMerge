@@ -1,1 +1,3 @@
-
+This folder includes the results of the drug enrichment analysis using the enrichR package. The files are stored according to the disease and the drug perturbation
+database. The drug perturbation database are: 'DrugMatrix', 'Drug_Perturbations_from_GEO_2014', 'LINCS_L1000_Chem_Pert_down', and 'LINCS_L1000_Chem_Pert_up' 
+(both results located in the folder whose name includes 'L1000'), 'Old _CMAP_down', and 'Old _CMAP_up' (both results located in the folder whose name includes 'CMAP')
