@@ -13,7 +13,7 @@ This repository includes:
 
 • 3-Drugs contains the output files of the R scripts which are also the inputs of the python part. The python scripts are located in the 'code' folder.
 
-• 4-MultipleModules_output includes the outputs of the drug enrichment analysis for each single module of Core&Peel and MD. This folder is created by the R scripts to calculates the files included in '3-Drugs/Drug-modulation-data'.
+• 4-MultipleModules_output includes the outputs of the drug enrichment analysis for each single module of Core&Peel and MD. This folder is created by the R scripts to calculate the files included in '3-Drugs/Drug-modulation-data'.
 
 ## Instructions
 1) Move to the '2-script' folder and set it as working directory.
