@@ -1,4 +1,3 @@
-
 Here we report only the Asthma example for space reason. The Asthma folder contains the results of drug enrichment analysis for each module of Core&Peel and ModuleDiscoverer (MD).
 Each result is stored according to the drug perturbation database.
 Intermediate files for all the diseases mentioned in the paper can be generated using the R scripts provided in this repository.
